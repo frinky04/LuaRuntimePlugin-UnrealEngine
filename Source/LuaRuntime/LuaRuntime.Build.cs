@@ -49,7 +49,7 @@ public class LuaRuntime : ModuleRules
         );
 
 		// Treat C files as C and not C++ where applicable
-		bEnableUndefinedIdentifierWarnings = false;
+		UndefinedIdentifierWarningLevel = WarningLevel.Off;
 		bUseRTTI = false;
 		
 		
