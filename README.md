@@ -1,4 +1,4 @@
-# LuaRuntime Plugin (UE 5.5)
+# LuaRuntime Plugin (UE 5.7)
 
 ## Overview
 - Safe, embeddable Lua 5.4 runtime for Shipping builds.
